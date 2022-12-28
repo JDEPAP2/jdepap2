@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDEPAP2&show_icons=true&layout=compact&theme=radical" 
-       style="height:full"/>
+       style="height:1000px"/>
 </a>
