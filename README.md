@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JDEPAP2&show_icons=true&layout=compact&theme=radical)
 
 <a href="https://github.com/JDEPAP2">
-  <img align="center" src="https://github.com/JDEPAP2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github.com/JDEPAP2" />
