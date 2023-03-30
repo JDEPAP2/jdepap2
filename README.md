@@ -1,5 +1,12 @@
 
 # Hi @_@
+ <a href="https://github.com/JDEPAP2">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
+ </a>
+ <a href="https://github.com/JDEPAP2">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDEPAP2&show_icons=true&layout=compact&theme=radical" />
+ </a>
+
 <!-- <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
 </a> -->
@@ -18,4 +25,6 @@
         for(let i=0;i<6;i++){
             res += chars[(Math.round(Math.random()*15))]
         }
+        
+        
 ```
