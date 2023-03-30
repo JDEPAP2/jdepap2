@@ -3,7 +3,7 @@
 <!-- <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
 </a> -->
-<!-- <div>
+<div>
   <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
   </a>
