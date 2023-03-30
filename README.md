@@ -1,14 +1,15 @@
 
 # Hi @_@
-<div align="center">
-   <a href="https://github.com/JDEPAP2">
+<a href="https://github.com/JDEPAP2">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDEPAP2&show_icons=true&layout=compact&theme=radical" />
-  </a>
+</a>
+<!-- <div align="center">
   <br>
   <a href="https://github.com/JDEPAP2">
     <img src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
   </a>
 </div>
+-->
 
 <!-- <a href="https://github.com/JDEPAP2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDEPAP2&show_icons=true&theme=radical" />
